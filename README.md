@@ -8,8 +8,8 @@ This prototype is a quick sketch adapted from a GUI developed by @realmacaw usin
 `Python 3.7`
 
 ### Screenshots
-![alt text](https://https://github.com/jebarney/prototype_OMS/blob/master/images/admin.png)
-![alt text](https://https://github.com/jebarney/prototype_OMS/blob/master/images/inventory.png)
-![alt text](https://https://github.com/jebarney/prototype_OMS/blob/master/images/update_product.png)
+![alt text](https://github.com/jebarney/prototype_OMS/blob/master/images/admin.png)
+![alt text](https://github.com/jebarney/prototype_OMS/blob/master/images/inventory.png)
+![alt text](https://github.com/jebarney/prototype_OMS/blob/master/images/update_product.png)
 
 
